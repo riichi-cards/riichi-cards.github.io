@@ -71,9 +71,7 @@ h1 {
 
 .footer-text {
     font-size: 13px;
-    color: #48556a7a;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: rgba(0, 0, 0, 0.084);
+    color: #00000050;
 }
 
 iframe {
