@@ -18,7 +18,7 @@ body {
     background-size: cover;
     background-position: center;
     
-    margin: 24px;
+    margin: 0 24px;
 
     -ms-user-select: none;
     -webkit-user-select: none;
