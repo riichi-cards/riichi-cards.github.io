@@ -55,7 +55,7 @@ h1 {
 
 .info p {
     margin: 5px;
-    font-size: 13px;
+    font-size: 15px;
     text-align: center;
 }
 
@@ -95,7 +95,8 @@ hr {
     font-size: 22px;
 }
 
-@media screen and (min-width: 540px){
+/* 540px */
+@media screen and (min-width: 33.75em){
     body {
         margin: 0;
     }
