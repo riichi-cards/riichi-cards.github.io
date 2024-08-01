@@ -85,10 +85,6 @@ hr {
     font-size: 24px;
 }
 
-.launchlist-button  {
-    background-color: white !important;
-}
-
 @media screen and (min-width: 540px){
     .card {
         max-width: 500px;
