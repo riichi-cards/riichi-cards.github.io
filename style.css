@@ -85,12 +85,12 @@ hr {
 }
 
 .join {
-    font-size: 24px;
+    font-size: 22px;
 }
 
 @media screen and (min-width: 540px){
     .card {
-        max-width: 500px;
+        max-width: clamp(500px, 4vw, 800px);
     }
 
     main {
@@ -102,7 +102,8 @@ hr {
     }
 
     .info {
-        margin: 24px;
+        max-width: 500px;
+        margin: clamp(12px, 0.5vw, 18px);
     }
     
     .info p {
